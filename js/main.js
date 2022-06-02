@@ -17,7 +17,7 @@ setTimeout(function() {
 window.addEventListener("keyup", enterKey);
 
 
-console.log("Password: ZnNvY2lldHk="); // Jack you need to endcode it 
+console.log("Password: ZnNvY2lldHk="); // Jack you need to decode it
 
 //init
 textarea.value = "";
